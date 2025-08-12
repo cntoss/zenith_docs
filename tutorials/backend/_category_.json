@@ -1,0 +1,9 @@
+{
+  "label": "Backend (Laravel)",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Laravel backend setup, configuration, and API guidelines."
+  }
+}
+

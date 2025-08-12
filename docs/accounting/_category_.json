@@ -1,0 +1,9 @@
+{
+  "label": "Accounting (Webview)",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Accounting module served as a separate web application."
+  }
+}
+
