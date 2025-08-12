@@ -1,25 +1,25 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+ramesh:
+  name: Ramesh Pokhrel
+  title: Product owner and researcher
+  url: https://linkedin.com/in/ramesh
+  image_url: https://github.com/ramesh.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
+    x: rameshz
+    linkedin: ramesh
+    github: ramesh
     newsletter: https://www.greatfrontend.com
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
+santosh:
+  name: Santosh Adhikari
+  title: Developer | Maintainer
   url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  image_url: https://github.com/cntoss.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles'
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
-    github: slorber
+    github: cntoss
     newsletter: https://thisweekinreact.com

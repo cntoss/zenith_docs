@@ -19,10 +19,10 @@ authors:
     title: Co-creator of Docusaurus 1
     url: https://github.com/JoelMarcey
     image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
+  - name: Santosh Adhikari
     title: Docusaurus maintainer
     url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
+    image_url: https://github.com/santosh.png
 tags: [greetings]
 ---
 
